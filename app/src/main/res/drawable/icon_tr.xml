@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="500dp"
+    android:height="500dp"
+    android:viewportWidth="5000"
+    android:viewportHeight="5000">
+  <path
+      android:pathData="M2053,3917l-512,-562 0,-700 0,-700 42,46c675,745 974,1069 987,1069 12,0 675,-717 992,-1073l37,-42 0,700 0,700 -510,560c-281,308 -514,561 -517,562 -4,1 -237,-251 -519,-560z"
+      android:fillColor="@color/whatsapp_color"
+      android:strokeColor="#00000000"/>
+  <path
+      android:pathData="M2053,2194l-513,-565 0,-697 0,-697 34,35c19,19 246,269 506,555 259,286 479,521 488,523 11,2 186,-184 522,-554l505,-556 3,696 2,697 -502,550c-277,303 -508,558 -514,565 -6,8 -13,14 -15,13 -2,0 -235,-254 -516,-565z"
+      android:fillColor="#ff1e1e"
+      android:strokeColor="#00000000"/>
+</vector>

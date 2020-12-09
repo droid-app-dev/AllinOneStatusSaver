@@ -21,7 +21,7 @@
 
 
 
-    <string name="about_content">Version: 1.0\nDeveloped by:-\ndudetechnic@gmail.com</string>
+    <string name="about_content">Version: 1.0\nDeveloped by:-\aharishgowda000@gmail.com</string>
     <string name="aboutInfo">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
     <string name="insta_app_name">Instagram</string>
     <string name="insta_tag"><![CDATA[Download Instagram Images & Videos]]></string>
@@ -50,13 +50,13 @@
     <string name="version_name">Version</string>
     <string name="version_tag"> Version 1.0.0</string>
     <string name="company_name_title">Company</string>
-    <string name="company_tag_name">Technic Dude</string>
+    <string name="company_tag_name">Gradle Tech Solutions</string>
     <string name="email_title">Email</string>
-    <string name="email_tag">dudetechnic@gmail.com</string>
+    <string name="email_tag">aharishgowda000@gmail.com</string>
     <string name="website_title">Website</string>
     <string name="website_tag">https://www.deepcrazyworld.com/</string>
     <string name="contact_title">Contact</string>
-    <string name="contact_tag">+91-98989898</string>
+    <string name="contact_tag">+91-9491658006</string>
     <string name="privacy_title">Privacy Policy</string>
     <string name="privacy_tag">Click to Read Privacy Policy</string>
     <string name="about_title">About</string>
@@ -93,9 +93,10 @@
 
     <string name="change_lang">Change Language</string>
     <string name="english">English</string>
-    <string name="hindi">हिंदी</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+
     <string name="change_your_language">Change Your Language</string>
-    <string name="arabic">العربية</string>
+    <string name="telugu">తెలుగు</string>
     <string name="how_to_download">How to Download</string>
     <string name="or_download_using_copied_link">or Download using copied link</string>
     <string name="share">Share</string>
